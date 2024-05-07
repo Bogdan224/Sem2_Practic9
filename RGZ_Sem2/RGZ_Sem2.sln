@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RGZ_Sem2", "RGZ_Sem2\RGZ_Sem2.vcxproj", "{C71FCC4D-2C27-432A-8C32-C51BBF53E5D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C71FCC4D-2C27-432A-8C32-C51BBF53E5D5}.Debug|x64.ActiveCfg = Debug|x64
+		{C71FCC4D-2C27-432A-8C32-C51BBF53E5D5}.Debug|x64.Build.0 = Debug|x64
+		{C71FCC4D-2C27-432A-8C32-C51BBF53E5D5}.Debug|x86.ActiveCfg = Debug|Win32
+		{C71FCC4D-2C27-432A-8C32-C51BBF53E5D5}.Debug|x86.Build.0 = Debug|Win32
+		{C71FCC4D-2C27-432A-8C32-C51BBF53E5D5}.Release|x64.ActiveCfg = Release|x64
+		{C71FCC4D-2C27-432A-8C32-C51BBF53E5D5}.Release|x64.Build.0 = Release|x64
+		{C71FCC4D-2C27-432A-8C32-C51BBF53E5D5}.Release|x86.ActiveCfg = Release|Win32
+		{C71FCC4D-2C27-432A-8C32-C51BBF53E5D5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D8E5247-7A52-4685-A570-738994459F10}
+	EndGlobalSection
+EndGlobal
